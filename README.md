@@ -1,4 +1,4 @@
 # hello-world
-this is my first step in GitHub
+huh, i don't know what to do
 
 and of course this is my second.
